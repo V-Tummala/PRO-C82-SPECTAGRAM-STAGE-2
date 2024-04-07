@@ -1,0 +1,46 @@
+[
+    {
+      "id": 1,
+      "author": "Daisy Cane",
+      "caption": "Yoga is amazing for you!",
+      "image": "image_1.jpg"
+    },
+    {
+      "id": 2,
+      "author": "Jane Smith",
+      "caption": "Make sure you eat healthy :)",
+      "image": "image_2.jpg"
+    },
+    {
+      "id": 3,
+      "author": "Alex Johnson",
+      "caption": "Delicious!!!",
+      "image": "image_3.jpg"
+    },
+    {
+      "id": 4,
+      "author": "Daniel Jones",
+      "caption": "Playing golf right now.",
+      "image": "image_4.jpg"
+    },
+    {
+      "id": 5,
+      "author": "James White",
+      "caption": "Come bike with me in the mountains.",
+      "image": "image_5.jpg"
+    },
+    {
+      "id": 6,
+      "author": " Toby Johnson",
+      "caption": "Isn't it beautiful?",
+      "image": "image_6.jpg"
+    },
+    {
+      "id": 7,
+      "author": "Alexa Robins",
+      "caption": "This is so fun!",
+      "image": "image_7.jpg"
+    }
+    
+  ]
+  
